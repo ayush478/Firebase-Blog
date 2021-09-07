@@ -19,4 +19,4 @@ let config = {
 
 ## Demo
 
-http://firebase-blog.netlify.com
+https://fir-crud-ca302.web.app/
